@@ -3,6 +3,10 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+require('dayjs/locale/zh-tw')
+
+// Mock axios response
+require('./core/dev/index.js');
 
 ReactDOM.render(
   <React.StrictMode>

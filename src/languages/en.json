@@ -1,0 +1,6 @@
+{
+  "title": {
+    "available": "Available times"
+  },
+  "timezoneWarning": "* All times listed are in your local timezone: {{0}}"
+}
